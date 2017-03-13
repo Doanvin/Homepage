@@ -43,6 +43,11 @@ h4 {
   padding: 15px 0 0;
 }
 
+#search-label {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 #duck-pic {
   padding: 0  !important;
 }
